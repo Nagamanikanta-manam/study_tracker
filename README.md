@@ -24,7 +24,10 @@ Download the latest Windows executable file from the link below:
 [Download for Windows](https://github.com/Nagamanikanta-manam/study_tracker/releases/download/v1.0.0/Release.zip)
 
 ## Screenshots
-(Include screenshots of the application here)
+![Image1](https://github.com/Nagamanikanta-manam/study_tracker/blob/master/screenshots/IMG_20250216_135341.jpg)
+![Image2](https://github.com/Nagamanikanta-manam/study_tracker/blob/master/screenshots/IMG_20250216_135355.jpg)
+![Image3](https://github.com/Nagamanikanta-manam/study_tracker/blob/master/screenshots/IMG_20250216_135404.jpg)
+
 
 ## Technology Stack
 - **Flutter** - Cross-platform framework
