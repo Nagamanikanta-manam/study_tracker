@@ -56,4 +56,6 @@ This project is licensed under the MIT License.
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## Contact
-For any queries, contact: [Your Email or Social Links]
+For any queries, contact: 
+Email:nagamanikanta2015@gmail.com
+Linkedin:https://www.linkedin.com/in/manam-naga-manikanta-91659b18a
