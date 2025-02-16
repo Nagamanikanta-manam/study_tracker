@@ -60,7 +60,8 @@ Download the latest Windows executable file from the link below:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/study-tracker.git
+git clone 
+https://github.com/Nagamanikanta-manam/study_tracker.git
 cd study-tracker
 ```
 
