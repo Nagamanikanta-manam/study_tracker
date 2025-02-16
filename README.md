@@ -17,11 +17,11 @@ A standalone Flutter application to track study topics and revision schedules wi
 
 ### Android
 Download the latest APK from the link below and install it on your device:
-[Download for Android](#)  
+[Download for Android](https://github.com/Nagamanikanta-manam/study_tracker/releases/download/v1.0.0/app-release.apk)  
 
 ### Windows
 Download the latest Windows executable file from the link below:
-[Download for Windows](#)
+[Download for Windows](https://github.com/Nagamanikanta-manam/study_tracker/releases/download/v1.0.0/Release.zip)
 
 ## Screenshots
 (Include screenshots of the application here)
