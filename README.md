@@ -26,9 +26,9 @@ Download the latest Windows executable file from the link below:
 ## Screenshots
 <p align="center">
 
-<img src="https://github.com/Nagamanikanta-manam/study_tracker/blob/master/screenshots/IMG_20250216_135341.jpg" alt="Mobile Screenshot" width="250" style="max-width:100%; height:auto; border-radius: 10px;">
-<img src="https://github.com/Nagamanikanta-manam/study_tracker/blob/master/screenshots/IMG_20250216_135355.jpg" alt="Mobile Screenshot" width="250" style="max-width:100%; height:auto; border-radius: 10px;">
-<img src="https://github.com/Nagamanikanta-manam/study_tracker/blob/master/screenshots/IMG_20250216_135404.jpg" alt="Mobile Screenshot" width="250" style="max-width:100%; height:auto; border-radius: 10px;">
+<img src="https://github.com/Nagamanikanta-manam/study_tracker/blob/master/screenshots/IMG_20250216_135341.jpg" alt="Mobile Screenshot" width="250" style="max-width:100%; height:auto; border-radius: 10px; margin:10px;">
+<img src="https://github.com/Nagamanikanta-manam/study_tracker/blob/master/screenshots/IMG_20250216_135355.jpg" alt="Mobile Screenshot" width="250" style="max-width:100%; height:auto; border-radius: 10px; margin:10px">
+<img src="https://github.com/Nagamanikanta-manam/study_tracker/blob/master/screenshots/IMG_20250216_135404.jpg" alt="Mobile Screenshot" width="250" style="max-width:100%; height:auto; border-radius: 10px; margin:10px">
 
 </p>
 
