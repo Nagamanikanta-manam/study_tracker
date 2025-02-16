@@ -30,17 +30,17 @@ Download the latest Windows executable file from the link below:
   <img src="https://raw.githubusercontent.com/Nagamanikanta-manam/study_tracker/master/screenshots/IMG_20250216_135341.jpg" 
        alt="Mobile Screenshot" 
        width="250" 
-       style="max-width:100%; height:auto; border-radius: 10px; margin:10px;">
+       style="max-width:100%; height:auto; border-radius: 10px; margin:5px;">
   
   <img src="https://raw.githubusercontent.com/Nagamanikanta-manam/study_tracker/master/screenshots/IMG_20250216_135355.jpg" 
        alt="Mobile Screenshot" 
        width="250" 
-       style="max-width:100%; height:auto; border-radius: 10px; margin:10px;">
+       style="max-width:100%; height:auto; border-radius: 10px; margin:5px;">
   
   <img src="https://raw.githubusercontent.com/Nagamanikanta-manam/study_tracker/master/screenshots/IMG_20250216_135404.jpg" 
        alt="Mobile Screenshot" 
        width="250" 
-       style="max-width:100%; height:auto; border-radius: 10px; margin:10px;">
+       style="max-width:100%; height:auto; border-radius: 10px; margin:5px;">
 </p>
 
 </p>
